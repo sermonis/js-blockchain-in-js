@@ -5,6 +5,7 @@
 Medium: [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)  
 Github: [Naivechain - a blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain)  
 
+## Description
 With all the hype about blockchains and cryptocurrencies, I decided to learn a bit more about it. And what better way to learn than to try to build it yourself? Below you will find a step-to-step explanation of how a blockchain works and how to build one from their basic principles. At every step below, you can check out the equivalent version of the demo at [blockchain-step${N}.nambrot.com](https://blockchain.nambrot.com) with the final version being available at [blockchain.nambrot.com](https://blockchain.nambrot.com) Disclaimer: I took some liberties in some aspects where this blockchain will diverge from reality for pedagogical purposes.
 
 ## Step 1: A chain of blocks?
